@@ -9,8 +9,8 @@
   |   ![WenjieYin1227's GitHub stats](https://github-readme-stats.vercel.app/api?username=WenjieYin1227&show_icons=true&count_private=true&theme=nightowl)    |    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WenjieYin1227&theme=nightowl)](https://git.io/streak-stats)     |
  | --- | --- |
 
-  |  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WenjieYin1227&theme=github_dark)   |    ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WenjieYin1227&theme=github_dark)     |
-| --- | --- |
+<!--   |  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WenjieYin1227&theme=github_dark)   |    ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WenjieYin1227&theme=github_dark)     |
+| --- | --- | -->
 
 <img alt="my Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=WenjieYin1227&bg_color=0c292E&color=a7e787&line=e729c7&point=dfdfdf&hide_border=true&theme=xcode" />
  
