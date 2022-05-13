@@ -12,11 +12,9 @@
   |  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WenjieYin1227&theme=github_dark)   |    ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WenjieYin1227&theme=github_dark)     |
 | --- | --- |
 
-<img alt="my Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bluecomet0412&bg_color=0c292E&color=a7e787&line=e729c7&point=dfdfdf&hide_border=true&theme=xcode" />
+<img alt="my Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=WenjieYin1227&bg_color=0c292E&color=a7e787&line=e729c7&point=dfdfdf&hide_border=true&theme=xcode" />
  
-[![Github](https://img.shields.io/github/followers/bluecomet0412?label=Follow&style=social)](https://github.com/bluecomet0412)
-
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=WenjieYin1227&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+[![Github](https://img.shields.io/github/followers/WenjieYin1227?label=Follow&style=social)](https://github.com/WenjieYin1227)
 
 <h2>Languages and Tools</h2>
 <p align="left" class="iconbar"> 
